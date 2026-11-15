@@ -21,6 +21,10 @@
   "PlanetX_AILens.ClearlearnObject|block": "vymazať všetky naučené objekty",
   "PlanetX_AILens.objectCheck|block": "je na obrazovke naučený objekt %thingsID ?",
   "PlanetX_AILens.objectConfidence|block": "spoľahlivosť objektu %thingsID",
+  "PlanetX_AILens.initAiLensPro|block": "inicializovať AI Lens Pro",
+  "PlanetX_AILens.switchApp|block": "prepnúť aplikáciu AI Lens Pro na %app",
+  "PlanetX_AILens.getOneFrame|block": "získať jednu snímku (AI Lens Pro)",
+  "PlanetX_AILens.onASR|block": "pri rozpoznaní hlasového príkazu %vocabulary",
   "PlanetX_AILens|block": "PlanetX_AI-Lens",
   "{id:category}PlanetX_AILens": "PlanetX_AI-Lens",
   "{id:group}Basic": "Základné nastavenie",
@@ -28,5 +32,7 @@
   "{id:group}Face": "Rozpoznávanie tvárí",
   "{id:group}Card": "Rozpoznávanie kariet",
   "{id:group}Tracking": "Sledovanie čiary",
-  "{id:group}Learn": "Učenie objektov"
+  "{id:group}Learn": "Učenie objektov",
+  "{id:group}AI Lens Pro": "AI Lens Pro",
+  "{id:group}ASR": "Hlasové príkazy (ASR)"
 }
